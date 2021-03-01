@@ -14,12 +14,12 @@ Layer 1 (modified w/Fn)
 
 ## Required keyboard shortcuts
 
-| Preference section | Shortcut            | Keys     |
-| ---                | ---                 | ---      |
-| Display            | Decrease brightness | F14    |
-| Mission Control    | Mission Control     | ⌃↑ |
-| | Application Windows `⌃↓`
-| Services | Toggle Microphone* | ⌃⌥⇧⌘F10 † |
+| Preference section | Shortcut            | Keys      |
+| ---                | ---                 | ---       |
+| Display            | Decrease brightness | F14       |
+| Mission Control    | Mission Control     | ⌃↑        |
+|                    | Application Windows | ⌃↓        |
+| Services           | Toggle Microphone*  | ⌃⌥⇧⌘F10 † |
 
 * This is an Automator 'quick action' with the script below
 
